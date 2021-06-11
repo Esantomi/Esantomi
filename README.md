@@ -3,12 +3,12 @@
 Ĝis! | Toki! | Whatever it is, Hi, guys. I am Esan.
 
 ### Education 🎓
-- Konkuk University, Seoul, Repulic of Korea
- - Double major
- - Bachelor of Arts(B.A.) in Korean Linguistics
- - Bachelor of Science(B.S.) in Life Science
-- Korean National Open University, Seoul, Republic of Korea
- - Bachelor of Science(B.S.) degree expected in Computer Science
+* Konkuk University, Seoul, Repulic of Korea
+  * Double major
+  * Bachelor of Arts(B.A.) in Korean Linguistics
+  * Bachelor of Science(B.S.) in Life Science
+* Korean National Open University, Seoul, Republic of Korea
+  * Bachelor of Science(B.S.) degree expected in Computer Science
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
