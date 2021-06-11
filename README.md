@@ -18,6 +18,9 @@ I am Esan.
 * Youngwoo Global Learning, Seoul, Korea
   * K-Digital Training Course in AI engineering
 
+### 🎯 Experience
+* Undergraduate researcher in Korea National Open University (2021~)
+
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
