@@ -4,17 +4,19 @@
 
 I am Esan.
 
+🏄 I believe going with the flow is one of the most important things in life.
 🌱 I’m currently learning Python, Machine Learning and NLP stuffs.
+📫 How to reach me: deomi@knou.ac.kr
 
-### 🎓Education
+### 🎓 Education
 * Konkuk University, Seoul, Korea
   * Double major
     * Bachelor of Arts (B.A.) in Korean Linguistics
     * Bachelor of Science (B.S.) in Life Science
-* Korean National Open University, Seoul, Korea
+* Korea National Open University, Seoul, Korea
   * Bachelor of Science(B.S.) degree expected in Computer Science
-* Youngwoo global learning, Seoul, Korea
-  * K-Digital Training Course in AI(Artificial Intelligence) engineering
+* Youngwoo Global Learning, Seoul, Korea
+  * K-Digital Training Course in AI engineering
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
