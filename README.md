@@ -10,11 +10,12 @@ I am Esan.
 
 ### 🎓 Education
 * Konkuk University, Seoul, Korea
-  * Double major
+  * *Double major*
     * Bachelor of Arts (B.A.) in Korean Linguistics
     * Bachelor of Science (B.S.) in Life Science
 * Korea National Open University, Seoul, Korea
-  * Bachelor of Science (B.S.) degree expected in Computer Science
+  * *College of Natural Sciences*
+    * Bachelor of Science (B.S.) degree expected in Computer Science
 * Youngwoo Global Learning, Seoul, Korea
   * K-Digital Training Course in AI engineering
 
