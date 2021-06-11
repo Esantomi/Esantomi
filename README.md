@@ -14,7 +14,7 @@ I am Esan.
 * Korean National Open University, Seoul, Korea
   * Bachelor of Science(B.S.) degree expected in Computer Science
 * Youngwoo global learning, Seoul, Korea
-  * a K-Digital Training Course in AI(Artificial Intelligence) engineering
+  * K-Digital Training Course in AI(Artificial Intelligence) engineering
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
