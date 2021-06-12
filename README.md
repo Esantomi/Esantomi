@@ -9,17 +9,20 @@ I am Esan.
 📫 How to reach me: deomi@knou.ac.kr  
 
 ### 🎓 Education
-* Anonymous University, Seoul, Korea (2012 - 2018)
-  * *Bachelor of Arts (B.A.) in Korean Linguistics*
-  * *Bachelor of Science (B.S.) in Life Science*
-* Korea National Open University, Seoul, Korea (2019-)
-  * *Bachelor of Science (B.S.) degree expected in Computer Science*
+* ANONYMOUS UNIVERSITY, Seoul, Korea (2012 - 2018)
+* *College of Liberal Arts*
+  * Bachelor of Arts (B.A.) in Korean Linguistics
+* *College of Life Sciences*
+  * Bachelor of Science (B.S.) in Life Science
+* KOREA NATIONAL OPEN UNIVERSITY, Seoul, Korea (2019-)
+* *College of Natural Sciences*
+  * Bachelor of Science (B.S.) degree expected in Computer Science
 * Youngwoo Global Learning, Seoul, Korea (Mar/2021 - Aug/2021)
   * K-Digital Training Course in AI engineering
 
 ### 🎯 Experience
 * Worked as a marketer (Jan/2019 - Mar/2021)
-* Korea National Open University
+* KOREA NATIONAL OPEN UNIVERSITY
   * Undergraduate researcher (Mar/2021-)
 
 <!--
