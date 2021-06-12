@@ -9,10 +9,9 @@ I am Esan.
 📫 How to reach me: deomi@knou.ac.kr  
 
 ### 🎓 Education
-* Konkuk University, Seoul, Korea
-  * *Double major*
-    * Bachelor of Arts (B.A.) in Korean Linguistics
-    * Bachelor of Science (B.S.) in Life Science
+* *Double major*
+  * Bachelor of Arts (B.A.) in Korean Linguistics
+  * Bachelor of Science (B.S.) in Life Science
 * Korea National Open University, Seoul, Korea
   * *College of Natural Sciences*
     * Bachelor of Science (B.S.) degree expected in Computer Science
@@ -20,7 +19,8 @@ I am Esan.
   * K-Digital Training Course in AI engineering
 
 ### 🎯 Experience
-* Undergraduate researcher in Korea National Open University (2021~)
+* Korea National Open University
+  * Undergraduate researcher (2021~)
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
