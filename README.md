@@ -14,13 +14,13 @@ I am Esan.
   * *Bachelor of Science (B.S.) in Life Science*
 * Korea National Open University, Seoul, Korea (2019-)
   * *Bachelor of Science (B.S.) degree expected in Computer Science*
-* Youngwoo Global Learning, Seoul, Korea (Mar. - Aug.2021)
+* Youngwoo Global Learning, Seoul, Korea (Mar/2021- Aug/2021)
   * K-Digital Training Course in AI engineering
 
 ### 🎯 Experience
-* Worked as a marketer (Jan. 2019 - Mar. 2021)
+* Worked as a marketer (Jan/2019 - Mar/2021)
 * Korea National Open University
-  * Undergraduate researcher (Mar. 2021-)
+  * Undergraduate researcher (Mar/2021-)
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
