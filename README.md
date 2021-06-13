@@ -4,9 +4,9 @@
 
 I am Esan.
 
-🏄 I believe going with the flow is one of the most important things in life.  
-🌱 I’m currently learning Python, Machine Learning and NLP stuffs.  
-📫 How to reach me: deomi@knou.ac.kr  
+- 🏄 I believe going with the flow is one of the most important things in life.  
+- 🌱 I’m currently learning Python, Machine Learning, Deep Learning and NLP stuffs.  
+- 📫 How to reach me: deomi@knou.ac.kr  
 
 ### 🎓 Education
 * ANONYMOUS UNIVERSITY, Seoul, Korea (2012 - 2018)
