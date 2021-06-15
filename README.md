@@ -13,7 +13,7 @@ I am Esan.
   * *College of Liberal Arts*
     * Bachelor of Arts (B.A.) in Korean Linguistics
   * *College of Life Sciences*
-    * Bachelor of Science (B.S.) in Biological sciences
+    * Bachelor of Science (B.S.) in Biological Sciences
 * KOREA NATIONAL OPEN UNIVERSITY, Seoul, Korea (2019-)
   * *College of Natural Sciences*
     * Bachelor of Science (B.S.) degree expected in Computer Science
