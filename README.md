@@ -7,7 +7,6 @@ I am Esan.
 - 🏄 I believe going with the flow is one of the most important things in life.  
 - 🌱 I’m currently learning Python, Machine Learning, Deep Learning and NLP stuffs.  
 - 📫 How to reach me: deomi@knou.ac.kr  
-- ⚡ Fun fact: I've got a Ph.D. from miskatonic University
 
 ### 🎓 Education
 * ANONYMOUS UNIVERSITY, Seoul, Korea (2012 - 2018)
