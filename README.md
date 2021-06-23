@@ -8,7 +8,7 @@ Hi, I am Esan.
 - 📫 How to reach me: deomi@knou.ac.kr  
 
 ### 🎓 Education
-* ANONYMOUS UNIVERSITY, Seoul, Korea (2012 - 2018)
+* UNIVERSITY OF NATIONAL FOUNDATION, Seoul, Korea (2012 - 2018)
   * *College of Liberal Arts*
     * Bachelor of Arts (B.A.) in Korean Linguistics
   * *College of Life Sciences*
