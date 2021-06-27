@@ -3,7 +3,7 @@
 Hi, I am Esan.
 
 - 🏄 I believe going with the flow is one of the most important things in life.  
-- 🌱 I’m currently learning Python, Machine Learning, Deep Learning and NLP stuffs.  
+- 🌱 I’m currently learning Python, Machine Learning, Deep Learning, NLP and CV stuffs.  
 - ⚡ Fun fact: I’m considering double majoring in computer science and statistics.
 - 📫 How to reach me: deomi@knou.ac.kr  
 
