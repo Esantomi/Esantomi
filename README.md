@@ -15,7 +15,7 @@ Hi, I am Esan.
 * KOREA NATIONAL OPEN UNIVERSITY, Seoul, Korea (2019-)
   * *College of Natural Sciences*
     * Bachelor of Science (B.S.) degree expected in Computer Science
-* Youngwoo Global Learning, Seoul, Korea (Mar/2021 - Aug/2021)
+* YOUNGWOO GLOBAL LEARNING, Seoul, Korea (Mar/2021 - Aug/2021)
   * K-Digital Training Course in AI engineering
 
 ### 🎯 Experience
