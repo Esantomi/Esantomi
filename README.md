@@ -18,6 +18,9 @@ Hi, I am Esan.
 * YOUNGWOO GLOBAL LEARNING, Seoul, Korea (Mar/2021 - Aug/2021)
   * K-Digital Training Course in AI engineering
 
+### 🛠 Tech Stack
+* https://img.shields.io/badge/language-Python-blue
+
 ### 🎯 Experience
 * Worked as a marketer (Jan/2019 - Mar/2021)
 * KOREA NATIONAL OPEN UNIVERSITY
