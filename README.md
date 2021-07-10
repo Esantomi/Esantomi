@@ -19,7 +19,7 @@ Hi, I am Esan.
   * K-Digital Training Course in AI engineering
 
 ### 🛠 Tech Stack
-* <img src="https://img.shields.io/badge/#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+* <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 ### 🎯 Experience
 * Worked as a marketer (Jan/2019 - Mar/2021)
