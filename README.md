@@ -7,8 +7,11 @@ Hi, I am Esan.
 - 📫 How to reach me: deomi@knou.ac.kr  
 
 ### 🛠 Tech Stack
-* Languages : <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-* Libraries : <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+* Languages
+  * <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+* Libraries
+  * <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+  * <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 
 ### 🎓 Education
 * UNIVERSITY OF NATIONAL FOUNDATION, Seoul, Korea (2012 - 2018)
