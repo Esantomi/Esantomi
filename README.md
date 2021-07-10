@@ -6,6 +6,9 @@ Hi, I am Esan.
 - 🌱 I’m currently learning Programming, Machine Learning, Deep Learning, NLP and CV stuffs.  
 - 📫 How to reach me: deomi@knou.ac.kr  
 
+### 🛠 Tech Stack
+* <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+
 ### 🎓 Education
 * UNIVERSITY OF NATIONAL FOUNDATION, Seoul, Korea (2012 - 2018)
   * *College of Liberal Arts*
@@ -17,9 +20,6 @@ Hi, I am Esan.
     * Bachelor of Science (B.S.) degree expected in Computer Science
 * YOUNGWOO GLOBAL LEARNING, Seoul, Korea (Mar/2021 - Aug/2021)
   * K-Digital Training Course in AI engineering
-
-### 🛠 Tech Stack
-* <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
 ### 🎯 Experience
 * Worked as a marketer (Jan/2019 - Mar/2021)
