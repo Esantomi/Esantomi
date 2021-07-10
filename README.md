@@ -1,5 +1,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)  
-### Hi there. I am Esan. 👋
+### Hi there. 👋
+
+I am Esan.
 
 - 🏄 I believe going with the flow is one of the most important things in life.  
 - 🌱 I’m currently learning Programming, Machine Learning, Deep Learning, NLP and CV stuffs.  
