@@ -7,7 +7,7 @@ I am Esan.
 - 🌱 I’m currently learning Programming, Machine Learning, Deep Learning, NLP and CV stuffs.  
 
 ### 🛠 Skills
-#### Languages
+#### Languages & Platforms
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
 
 ### 🎓 Education
