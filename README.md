@@ -6,9 +6,11 @@ I am Esan.
 - 🌱 I’m currently learning Programming, Machine Learning, Deep Learning, NLP and CV stuffs.  
 - 📫 how to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)  
 
+
 ### 🛠 Skills
 #### Languages & Platforms
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+
 
 ### 🎓 Education
 * UNIVERSITY OF NATIONAL FOUNDATION, Seoul, Korea (2012 - 2018)
@@ -21,6 +23,7 @@ I am Esan.
     * Bachelor of Science (B.S.) degree expected in Computer Science
 * YOUNGWOO GLOBAL LEARNING, Seoul, Korea (Mar/2021 - Aug/2021)
   * K-Digital Training Course in AI engineering
+
 
 ### 🎯 Experience
 * Worked as a marketer (Jan/2019 - Mar/2021)
