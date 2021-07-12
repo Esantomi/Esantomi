@@ -11,11 +11,11 @@ I am Esan.
 
 
 ### 🎓 Education
-* UNIVERSITY OF NATIONAL FOUNDATION, Seoul, Korea (2012 - 2018)
+<!-- * UNIVERSITY OF NATIONAL FOUNDATION, Seoul, Korea (2012 - 2018)
   * *College of Liberal Arts*
     * Bachelor of Arts (B.A.) in Korean Language and Literature
   * *College of Life Sciences*
-    * Bachelor of Science (B.S.) in Biological Sciences
+    * Bachelor of Science (B.S.) in Biological Sciences -->
 * KOREA NATIONAL OPEN UNIVERSITY, Seoul, Korea (2019-)
   * *College of Natural Sciences*
     * Bachelor of Science (B.S.) degree expected in Computer Science
