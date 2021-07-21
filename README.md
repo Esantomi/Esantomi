@@ -5,10 +5,11 @@ I am Esan.
 - 🌱 I’m currently learning Programming, Machine Learning, Deep Learning, NLP and CV stuffs.
 - 📫 how to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
-
 
 ### 🛠 Skills
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
+
 <!-- https://simpleicons.org/ -->
 - Languages  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
