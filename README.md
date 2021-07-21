@@ -1,7 +1,5 @@
 ### Hi there. 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
-
 I am Esan.  
 - 🏄 I believe going with the flow is one of the most important things in life.
 - 🌱 I’m currently learning Programming, Machine Learning, Deep Learning, NLP and CV stuffs.
@@ -10,7 +8,7 @@ I am Esan.
 
 ### 🛠 Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi)](https://github.com/anuraghazra/github-readme-stats)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
 
 <!-- https://simpleicons.org/ -->
 - Languages  
