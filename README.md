@@ -7,6 +7,9 @@ I am Esan.
 
 
 ### 🛠 Skills
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
+
 <!-- https://simpleicons.org/ -->
 - Languages  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -47,8 +50,6 @@ I am Esan.
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esantomi)](https://github.com/anuraghazra/github-readme-stats)
  -->
-Git-Hub Stats
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
 
 
 <!--
