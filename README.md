@@ -7,9 +7,6 @@ I am Esan.
 
 
 ### 🛠 Skills
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
-
 <!-- https://simpleicons.org/ -->
 - Languages  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -27,6 +24,8 @@ I am Esan.
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
 
 
 ### 🎓 Education
