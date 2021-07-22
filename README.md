@@ -1,13 +1,12 @@
 ### Hi there. 👋
 
-I am Esan.  
+I am Esan. You can reach me here: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
 - 🏄 I believe going with the flow is one of the most important things in life.
 - 🌱 I’m currently learning Programming, Machine Learning, Deep Learning, NLP and CV stuffs.
-- 📫 how to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
 
-
-### 🛠 Skills
 * * *
+### 🛠 Skills
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esantomi)](https://github.com/anuraghazra/github-readme-stats)
  -->
@@ -30,9 +29,9 @@ I am Esan.
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
-
-### 🖇 Things I've done
 * * *
+### 🖇 Things I've done
+
 <!-- * UNIVERSITY OF NATIONAL FOUNDATION, Seoul, Korea (2012 - 2018)
   * *College of Liberal Arts*
     * Bachelor of Arts (B.A.) in Korean Language and Literature
