@@ -1,14 +1,16 @@
 ### Hi there. 👋
 
-I am Esan. you can reach me here: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
-
+I am Esan.  
 - 🏄 I believe going with the flow is one of the most important things in life.
 - 🌱 I’m currently learning Programming, Machine Learning, Deep Learning, NLP and CV stuffs.
+- 📫 how to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
 
 
 ### 🛠 Skills
-
+* * *
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esantomi)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 <!-- https://simpleicons.org/ -->
 - Languages  
@@ -29,7 +31,8 @@ I am Esan. you can reach me here: [![Gmail Badge](https://img.shields.io/badge/G
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
 
-### 🎓 Education
+### 🖇 Things I've done
+* * *
 <!-- * UNIVERSITY OF NATIONAL FOUNDATION, Seoul, Korea (2012 - 2018)
   * *College of Liberal Arts*
     * Bachelor of Arts (B.A.) in Korean Language and Literature
@@ -38,21 +41,11 @@ I am Esan. you can reach me here: [![Gmail Badge](https://img.shields.io/badge/G
 * KOREA NATIONAL OPEN UNIVERSITY, Seoul, Korea (2019-)
   * *College of Natural Sciences*
     * Bachelor of Science (B.S.) degree expected in Computer Science
+  * Undergraduate researcher (Mar/2021-)
 * YOUNGWOO GLOBAL LEARNING, Seoul, Korea (Mar/2021 - Aug/2021)
   * K-Digital Training Course in AI engineering
-
-
-### 🎯 Experience
 * Worked as a marketer (Jan/2019 - Mar/2021)
-* KOREA NATIONAL OPEN UNIVERSITY
-  * Undergraduate researcher (Mar/2021-)
-
-<div id="col_short">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</div>
-
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esantomi)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
+  
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
