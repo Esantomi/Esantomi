@@ -4,7 +4,7 @@ I am Esan. You can reach me here: [![Gmail Badge](https://img.shields.io/badge/G
 - 🏄 I believe going with the flow is one of the most important things in life.
 - 🌱 I’m currently learning Programming, Machine Learning, Deep Learning, NLP and CV stuffs.
 
-* * *
+
 ### 🛠 Skills
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
@@ -29,7 +29,7 @@ I am Esan. You can reach me here: [![Gmail Badge](https://img.shields.io/badge/G
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
-* * *
+
 ### 🖇 Things I've done
 
 <!-- * UNIVERSITY OF NATIONAL FOUNDATION, Seoul, Korea (2012 - 2018)
