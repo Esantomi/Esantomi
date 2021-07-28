@@ -2,7 +2,7 @@
 
 I am Esan. You can reach me here: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
 - 🏄 I believe going with the flow is one of the most important things in one's life.
-- 🌱 I’m currently learning Programming, Machine Learning, Deep Learning, NLP and CV stuffs.
+- 🌱 I’m currently learning programming, machine learning, deep learning, NLP and CV stuffs.
 
 
 ### 🛠 Skills
