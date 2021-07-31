@@ -5,7 +5,7 @@ I am Esan. You can reach me here: [![Gmail Badge](https://img.shields.io/badge/G
 - 🌱 I’m currently learning programming, machine learning, deep learning, NLP and CV stuffs.
 
 
-### 🛠 Skills
+### 🛠 Stacks
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esantomi)](https://github.com/anuraghazra/github-readme-stats)
