@@ -32,7 +32,7 @@ I am Esan. You can reach me here: [![Gmail Badge](https://img.shields.io/badge/G
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
 
-### 🖇 Things I've done
+### 🖇 Course
 
 <!-- * UNIVERSITY OF NATIONAL FOUNDATION, Seoul, Korea (2012 - 2018)
   * *College of Liberal Arts*
