@@ -3,12 +3,8 @@
 I am Esan. You can reach me here: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
 - 🏄 I believe going with the flow is one of the most important things in one's life.
 - 🌱 I’m currently learning programming, machine learning, deep learning, NLP and CV stuffs.
-- ⚡ I'm interested in generative art. this is why I'm learning processing and p5.js.
+- ⚡ I'm interested in generative art. this is why I'm learning processing and p5.js. 
 
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact" height="165>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
-</div>  
 
 ### 🛠 Stacks
 
@@ -33,6 +29,12 @@ I am Esan. You can reach me here: [![Gmail Badge](https://img.shields.io/badge/G
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
+
+### 💬 records
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esantomi&hide=contribs,prs)
+
+
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,8 +48,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-                                                                                                   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esantomi)](https://github.com/anuraghazra/github-readme-stats)
-                                                                                                   
+
 -->
