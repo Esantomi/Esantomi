@@ -5,12 +5,12 @@ I am Esan. You can reach me here: [![Gmail Badge](https://img.shields.io/badge/G
 - 🌱 I’m currently learning programming, machine learning, deep learning, NLP and CV stuffs.
 - ⚡ I'm interested in generative art. this is why I'm learning processing and p5.js.
 
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact" height="165>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
+</div>  
 
 ### 🛠 Stacks
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi" height="165">
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esantomi)](https://github.com/anuraghazra/github-readme-stats)
- -->
 
 <!-- https://simpleicons.org/ -->
 - Languages  
@@ -33,23 +33,6 @@ I am Esan. You can reach me here: [![Gmail Badge](https://img.shields.io/badge/G
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
-
-### 🖇 Course
-
-<!-- * UNIVERSITY OF NATIONAL FOUNDATION, Seoul, Korea (2012 - 2018)
-  * *College of Liberal Arts*
-    * Bachelor of Arts (B.A.) in Korean Language and Literature
-  * *College of Life Sciences*
-    * Bachelor of Science (B.S.) in Biological Sciences -->
-* KOREA NATIONAL OPEN UNIVERSITY, Seoul, Korea (2019-)
-  * *College of Natural Sciences*
-    * Bachelor of Science (B.S.) degree expected in Computer Science
-  * Undergraduate researcher (Mar/2021-)
-* YOUNGWOO GLOBAL LEARNING, Seoul, Korea (Mar/2021 - Aug/2021)
-  * K-Digital Training Course in AI engineering
-* Worked as a marketer (Jan/2019 - Mar/2021)
-  
-
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,4 +46,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+                                                                                                   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esantomi)](https://github.com/anuraghazra/github-readme-stats)
+                                                                                                   
 -->
