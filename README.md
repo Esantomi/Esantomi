@@ -1,12 +1,14 @@
 ### Hi there. 👋
 
-I am Esan. You can reach me here: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
+I am Esan. 
+- 📫 You can reach me here: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr) and [my blog](https://haechandeo.me)
 - 🏄 I believe going with the flow is one of the most important things in one's life.
-- 🌱 I’m currently learning programming, machine learning, deep learning, NLP and CV stuffs.
 - ⚡ I'm interested in generative art. this is why I'm learning processing and p5.js. 
 
 
 ### 🛠 Stacks
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi&&show_icons=true" height="165">
 
 <!-- https://simpleicons.org/ -->
 - Languages  
@@ -29,10 +31,6 @@ I am Esan. You can reach me here: [![Gmail Badge](https://img.shields.io/badge/G
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
-
-### 💬 records
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esantomi&hide=contribs,prs)
 
 
 <!--
