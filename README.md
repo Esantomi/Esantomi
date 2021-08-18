@@ -1,7 +1,6 @@
-### Hi there. 👋
+<img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/deomi@knou.ac.kr-ㅇ14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr"/>
 
-I am Esan. 
-- 📫 You can reach me here: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr) and [my blog](https://haechandeo.me)
+👋 Hi there. I am Esan and I am new here. 
 - 🏄 I believe going with the flow is one of the most important things in one's life.
 - ⚡ I'm interested in generative art. this is why I'm learning processing and p5.js. 
 
