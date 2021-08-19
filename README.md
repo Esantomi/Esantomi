@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/deomi@knou.ac.kr-ㅇ14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr"/>
+[![Tech Blog Badge](http://img.shields.io/badge/Portfolio%20&%20Blog-black?style=flat-square&logo=github&link=https://Esantomi.github.io/)](https://Esantomi.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
 
 👋 Hi there. I am Esan and I am new here. 
 - 🏄 I believe going with the flow is one of the most important things in one's life.
@@ -29,7 +30,6 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
-
 
 
 <!--
