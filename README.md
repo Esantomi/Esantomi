@@ -13,7 +13,7 @@
 
 ### 🛠 Stacks
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi&&show_icons=true" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi&&show_icons=true&theme=flag-india" height="165">
 
 <!-- https://simpleicons.org/ -->
 - Languages  
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
