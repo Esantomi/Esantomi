@@ -13,7 +13,7 @@
 
 ### 🛠 Stacks
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india&hide_border=true" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=maroongold&hide_border=true" height="165">
 
 <!-- https://simpleicons.org/ -->
 - Languages  
