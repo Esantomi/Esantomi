@@ -4,8 +4,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/Portfolio%20&%20Blog-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/)](https://Esantomi.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
 
-- I am Esan and I have been intrigued by **programming**, **machine learning** and **generative art**.
-- if you want to contact me, you can reach me by the two ways I mentioned above.
+I am Esan and if you want to contact me, you can reach me by the two ways I mentioned above.
 
 <!-- - 🏄 I believe going with the flow is one of the most important things in one's life.
 - ⚡ I'm interested in generative art. this is why I'm learning processing and p5.js.  -->
