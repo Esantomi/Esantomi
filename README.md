@@ -31,9 +31,10 @@ I am Esan. You can contact me at the email address above.
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="165">
-
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="165">
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
