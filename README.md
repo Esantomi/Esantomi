@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![GitLab](http://img.shields.io/badge/GitLab-black?style=flat-square&logo=GitLab&link=https://gitlab.com/Esantomi)](https://gitlab.com/Esantomi)
-[![Tech Blog Badge](http://img.shields.io/badge/Portfolio%20&%20Blog-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/)](https://Esantomi.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/Blog%20&%20Portfolio-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/)](https://Esantomi.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
 
 😄 I am Esan. You can contact me at the email address above.
