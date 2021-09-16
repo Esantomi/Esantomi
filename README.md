@@ -4,7 +4,7 @@
 [![GitLab](http://img.shields.io/badge/GitLab-black?style=flat-square&logo=GitLab&link=https://gitlab.com/Esantomi)](https://gitlab.com/Esantomi)
 [![Gmail Badge](https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
 
-😄 I am Esan. You can contact me at the email address above.
+😄 I am Esan.
 
 <!-- - 🏄 I believe going with the flow is one of the most important things in one's life.
 - ⚡ I'm interested in generative art. this is why I'm learning processing and p5.js.  -->
@@ -15,6 +15,20 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
+
+<pre align="center">🤗 You can contact me at the email address below. 👇</pre>	
+
+<p align="center">
+  <a href="https://Esantomi.github.io/">
+    <img src="http://img.shields.io/badge/Blog%20&%20Portfolio-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/" />
+  </a>
+  <a href="https://gitlab.com/Esantomi">
+    <img src="http://img.shields.io/badge/GitLab-black?style=flat-square&logo=GitLab&link=https://gitlab.com/Esantomi" />
+  </a>
+  <a href="mailto:deomi@knou.ac.kr">
+    <img src="https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr" />
+  </a>
+</p>
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
