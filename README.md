@@ -1,20 +1,13 @@
 ### Hi there 👋
 
-[![Tech Blog Badge](http://img.shields.io/badge/Blog%20&%20Portfolio-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/)](https://Esantomi.github.io/)
-[![GitLab](http://img.shields.io/badge/GitLab-black?style=flat-square&logo=GitLab&link=https://gitlab.com/Esantomi)](https://gitlab.com/Esantomi)
-[![Gmail Badge](https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
+😄 I am Esan. I believe going with the flow is one of the most important things in one's life.
 
-😄 I am Esan.
-
-<!-- - 🏄 I believe going with the flow is one of the most important things in one's life.
-- ⚡ I'm interested in generative art. this is why I'm learning processing and p5.js.  -->
+<!-- - ⚡ I'm interested in generative art. this is why I'm learning processing and p5.js.  -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html,SCSS,CSS,XSLT&langs_count=6&theme=flag-india" />
   <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="165">
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
 <pre align="center">🤗 You can contact me at the email address below. 👇</pre>	
 
@@ -29,6 +22,8 @@
     <img src="https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr" />
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -62,5 +57,9 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+
+[![Tech Blog Badge](http://img.shields.io/badge/Blog%20&%20Portfolio-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/)](https://Esantomi.github.io/)
+[![GitLab](http://img.shields.io/badge/GitLab-black?style=flat-square&logo=GitLab&link=https://gitlab.com/Esantomi)](https://gitlab.com/Esantomi)
+[![Gmail Badge](https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
 
 -->
