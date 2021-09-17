@@ -9,6 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="165">
 </p>
 
+<pre align="center">🤗 You can contact me at the email address below. 👇</pre>	
+
 <p align="center">
   <a href="https://Esantomi.github.io/">
     <img src="http://img.shields.io/badge/Blog%20&%20Portfolio-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/" />
@@ -21,8 +23,6 @@
   </a>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsantomi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" />
 </p>
-
-<pre align="center">🤗 You can contact me at the email address above. ☝</pre>	
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8&theme=buddhism" />
