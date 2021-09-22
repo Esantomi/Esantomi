@@ -19,7 +19,7 @@
     <img src="http://img.shields.io/badge/GitLab-purple?style=flat-square&logo=GitLab&link=https://gitlab.com/Esantomi" />
   </a>
   <a href="https://playful-fire-061.notion.site/Dev-Studies-e75ec25edcdc427f8414f961f72ad8a7">
-    <img src="http://img.shields.io/badge/Notion-yellow?style=flat-square&logo=Notion&link=https://playful-fire-061.notion.site/Dev-Studies-e75ec25edcdc427f8414f961f72ad8a7" />
+    <img src="http://img.shields.io/badge/Notion-limegreen?style=flat-square&logo=Notion&link=https://playful-fire-061.notion.site/Dev-Studies-e75ec25edcdc427f8414f961f72ad8a7" />
   </a>
   <a href="mailto:deomi@knou.ac.kr">
     <img src="https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr" />
