@@ -5,7 +5,7 @@
 <!-- - ⚡ I'm interested in generative art. this is why I'm learning processing and p5.js.  -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html,SCSS,CSS,XSLT&langs_count=6&theme=flag-india" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html,SCSS,CSS,XSL,Sass&langs_count=6&theme=flag-india" />
   <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="165">
 </p>
 
