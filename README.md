@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://Esantomi.github.io/">
-    <img src="http://img.shields.io/badge/Blog%20&%20Portfolio-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/" />
+    <img src="http://img.shields.io/badge/Blog%20&%20CV-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/" />
   </a>
   <a href="https://gitlab.com/Esantomi">
     <img src="http://img.shields.io/badge/GitLab-purple?style=flat-square&logo=GitLab&link=https://gitlab.com/Esantomi" />
