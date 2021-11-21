@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=%23FFD700&size=35&vCenter=true&lines=Hi+there%2C+I+am+Esan.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=%23FFD700&size=35&center=true&vCenter=true&lines=Hi+there%2C+I+am+Esan.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html,SCSS,CSS,XSL,Sass&langs_count=6&theme=flag-india" />
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esantomi" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Esantomi&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 
