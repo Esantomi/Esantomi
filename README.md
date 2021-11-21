@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=%23FFD700&size=35&center=true&vCenter=true&width=300&lines=Hi+there%2C+I+am+Esan." />
 </p>
 
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sideorder)](https://solved.ac/sideorder)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="165">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Esantomi&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D" height="165" />
@@ -69,6 +67,7 @@ https://simpleicons.org/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html,SCSS,CSS,XSL,Sass&langs_count=6&theme=flag-india" height="165"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sideorder" height="165"/>
 </p>
 
 <p align="center">
