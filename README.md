@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Esantomi&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Esantomi&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="165">
 </p>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Esantomi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
