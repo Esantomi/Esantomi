@@ -27,9 +27,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsantomi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8&theme=buddhism" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Esantomi)](https://git.io/streak-stats)
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,5 +65,9 @@ https://simpleicons.org/
 [![Tech Blog Badge](http://img.shields.io/badge/Blog%20&%20Portfolio-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/)](https://Esantomi.github.io/)
 [![GitLab](http://img.shields.io/badge/GitLab-black?style=flat-square&logo=GitLab&link=https://gitlab.com/Esantomi)](https://gitlab.com/Esantomi)
 [![Gmail Badge](https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8&theme=buddhism" />
+</p>
 
 -->
