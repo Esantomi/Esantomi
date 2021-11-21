@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=%23FFD700&size=35&center=true&vCenter=true&width=300&lines=Hi+there%2C+I+am+Esan." />
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Esantomi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="165">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Esantomi&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D" height="165" />
 </p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Esantomi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
