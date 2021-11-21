@@ -5,24 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="165">
 </p>
 
-<pre align="center">🤗 You can contact me at the email address below. 👇</pre>	
-
-<p align="center">
-  <a href="https://Esantomi.github.io/">
-    <img src="http://img.shields.io/badge/Blog%20&%20CV-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/" />
-  </a>
-  <a href="https://gitlab.com/Esantomi">
-    <img src="http://img.shields.io/badge/GitLab-purple?style=flat-square&logo=GitLab&link=https://gitlab.com/Esantomi" />
-  </a>
-  <a href="https://playful-fire-061.notion.site/Dev-Studies-e75ec25edcdc427f8414f961f72ad8a7">
-    <img src="http://img.shields.io/badge/Notion-yellow?style=flat-square&logo=Notion&link=https://playful-fire-061.notion.site/Dev-Studies-e75ec25edcdc427f8414f961f72ad8a7" />
-  </a>
-  <a href="mailto:deomi@knou.ac.kr">
-    <img src="https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr" />
-  </a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsantomi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" />
-</p>
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esantomi" />
@@ -65,6 +47,24 @@ https://simpleicons.org/
 [![Tech Blog Badge](http://img.shields.io/badge/Blog%20&%20Portfolio-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/)](https://Esantomi.github.io/)
 [![GitLab](http://img.shields.io/badge/GitLab-black?style=flat-square&logo=GitLab&link=https://gitlab.com/Esantomi)](https://gitlab.com/Esantomi)
 [![Gmail Badge](https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr)](mailto:deomi@knou.ac.kr)
+
+<pre align="center">🤗 You can contact me at the email address below. 👇</pre>	
+
+<p align="center">
+  <a href="https://Esantomi.github.io/">
+    <img src="http://img.shields.io/badge/Blog%20&%20CV-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/" />
+  </a>
+  <a href="https://gitlab.com/Esantomi">
+    <img src="http://img.shields.io/badge/GitLab-purple?style=flat-square&logo=GitLab&link=https://gitlab.com/Esantomi" />
+  </a>
+  <a href="https://playful-fire-061.notion.site/Dev-Studies-e75ec25edcdc427f8414f961f72ad8a7">
+    <img src="http://img.shields.io/badge/Notion-yellow?style=flat-square&logo=Notion&link=https://playful-fire-061.notion.site/Dev-Studies-e75ec25edcdc427f8414f961f72ad8a7" />
+  </a>
+  <a href="mailto:deomi@knou.ac.kr">
+    <img src="https://img.shields.io/badge/deomi@knou.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deomi@knou.ac.kr" />
+  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsantomi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8&theme=buddhism" />
