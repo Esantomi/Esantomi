@@ -1,6 +1,4 @@
-### Hi there 👋
-
-😄 I am Esan. I believe going with the flow is one of the most important things in one's life.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=%23FFD700&size=35&center=true&vCenter=true&lines=Hi+there%2C+I+am+Esan.)](https://git.io/typing-svg)
 
 <!-- - ⚡ I'm interested in generative art. this is why I'm learning processing and p5.js.  -->
 
