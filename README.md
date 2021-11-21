@@ -1,15 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=%23FFD700&size=35&center=true&vCenter=true&width=300&lines=Hi+there%2C+I+am+Esan.)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Esantomi&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html,SCSS,CSS,XSL,Sass&langs_count=6&theme=flag-india" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html,SCSS,CSS,XSL,Sass&langs_count=6&theme=flag-india" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="165">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Esantomi&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india">
 </p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Esantomi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
