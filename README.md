@@ -7,6 +7,9 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Esantomi&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8&theme=buddhism" />
+</p>
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,10 +69,6 @@ https://simpleicons.org/
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html,SCSS,CSS,XSL,Sass&langs_count=6&theme=flag-india" height="165"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sideorder" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8&theme=buddhism" />
 </p>
 
 -->
