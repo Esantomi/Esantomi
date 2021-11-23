@@ -2,19 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=%23FFD700&size=35&center=true&vCenter=true&width=300&lines=Hi+there%2C+I+am+Esan." />
 </p>
 
-<p>
-  <img align="right" src="https://user-images.githubusercontent.com/61646760/142904700-29b864a0-546a-4735-9041-7591269d56c3.gif" height="200" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61646760/142904700-29b864a0-546a-4735-9041-7591269d56c3.gif" height="210" />
 </p>
-
-dkdkdk
-
-dkdkdk
-
-dkdk
-
-dkdkdk
-
-dkdkdk
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="165">
