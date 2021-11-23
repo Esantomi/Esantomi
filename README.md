@@ -2,15 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=%23FFD700&size=35&center=true&vCenter=true&width=300&lines=Hi+there%2C+I+am+Esan." />
 </p>
 
-<div class="pull-right">
-  <img src="https://steemit.com/images/favicons/apple-touch-icon-57x57.png">
-</div>
-<div>
-  단을 응용해서 이렇게 이미지와 텍스트의 조화를 이룰 수도 있죠. 
-  @slay 님이 번역하신 스팀잇 가이드에 있는 내용을 가져왔습니다.
-</div>
-
-<p align="center">
+<p align="right">
   <img src="https://user-images.githubusercontent.com/61646760/142904700-29b864a0-546a-4735-9041-7591269d56c3.gif" height="220" />
 </p>
 
