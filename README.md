@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=%23FFD700&size=35&center=true&vCenter=true&width=300&lines=Hi+there%2C+I+am+Esan." />
 </p>
 
-### 🧐 About Me
-
 <p>
   <img align="right" src="https://user-images.githubusercontent.com/61646760/142904700-29b864a0-546a-4735-9041-7591269d56c3.gif" height="210" />
 </p>
+
+### 🧐 About Me
 
 - 한국방송통신대학교 (Korea National Open University)
   - 컴퓨터과학과 4학년 (a senior majoring in computer science)  
