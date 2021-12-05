@@ -12,12 +12,12 @@
   - 컴퓨터과학과 4학년 (a senior majoring in computer science)  
 
 ### 🎯 What I'm up to
-|Aim|Sort|Done|
+|<div align="center">Aim</div>|Sort|Done|
 |:---|:---:|:---:|
 |studying algorithms|Algorithms|F|
-|making a brainfuck interpreter and a tetris game|Programming|F|
 |building a raspberry pi NAS server|Networks|F|
-|studying SQL, React, Flask and making a web service)|Programming|F|
+|making a brainfuck interpreter and a tetris game|Programming|F|
+|studying SQL, React, Flask and making a web service|Programming|F|
 
 ### 📊 Github Stats
 <p align="center">
