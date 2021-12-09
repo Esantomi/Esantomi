@@ -9,7 +9,7 @@
 ### 🧐 About Me
 
 - 한국방송통신대학교 (Korea National Open University)
-  - 컴퓨터과학과 4학년 (a senior majoring in computer science)  
+  - 컴퓨터과학과 4학년 (a senior majoring in computer science as of 2022)  
 
 ### 🎯 What I'm up to
 - 알고리즘 학습 (studying algorithms)
