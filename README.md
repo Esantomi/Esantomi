@@ -10,6 +10,9 @@
 
 - 한국방송통신대학교 (Korea National Open University)
   - 컴퓨터과학과 4학년 (a senior majoring in computer science as of 2022)  
+- 한국학중앙연구원 한국학대학원 (The Graduate School of Korean Studies
+in the Academy of Korean Studies)
+  - 인문정보학 전공 (major in cultural informatics)
 
 ### 🎯 What I'm up to
 - 알고리즘 학습 (studying algorithms)
