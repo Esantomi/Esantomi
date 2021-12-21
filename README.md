@@ -6,18 +6,29 @@
   <img align="right" src="https://user-images.githubusercontent.com/61646760/142904700-29b864a0-546a-4735-9041-7591269d56c3.gif" height="250" />
 </p>
 
+<!--
 ### 🧐 About Me
 
 - Korea National Open University
   - a senior majoring in computer science as of 2022
 - The Graduate School of Korean Studies in the Academy of Korean Studies
   - major in cultural informatics
+-->
 
 ### 🎯 What I'm up to
-- 알고리즘 학습 (studying algorithms)
-- 라즈베리 파이 NAS 서버 구축 (building a raspberry pi NAS server)
-- 브레인퍽 인터프리터, 테트리스 구현 (making a brainfuck interpreter and a tetris game)
-- SQL, React, Flask 학습 및 웹 서비스 제작 (studying SQL, React, Flask and making a web service)
+1. 언어
+- 『이이화의 한문 공부』 독파
+- 『풀어쓴 대학한문 : 초급편』 독파
+- JLPT N2 목표 학습
+
+2. 컴퓨터
+- 『모두의 알고리즘』 학습
+- Raspberry Pi NAS 서버 구축
+- SQLD 취득
+- 토이 프로젝트 : brainfuck interpreter, tetris, web service
+
+3. 디지털 인문학
+- 『디지털 인문학 입문』 독파
 
 ### 📊 Github Stats
 <p align="center">
