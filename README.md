@@ -21,7 +21,6 @@
   - 『풀어쓴 대학한문 : 초급편』 독파
   - JLPT N2 목표 학습
 - 컴퓨터
-  - 『모두의 알고리즘』 학습
   - Raspberry Pi NAS 서버 구축
   - SQLD | ADsP 취득
   - 토이 프로젝트 : brainfuck interpreter, tetris, web service
