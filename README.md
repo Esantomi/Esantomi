@@ -6,24 +6,16 @@
   <img align="right" src="https://user-images.githubusercontent.com/61646760/142904700-29b864a0-546a-4735-9041-7591269d56c3.gif" height="250" />
 </p>
 
-<!--
+
 ### 🧐 About Me
 
-- Korea National Open University
-  - a senior majoring in computer science as of 2022
-- The Graduate School of Korean Studies in the Academy of Korean Studies
-  - major in cultural informatics
--->
+- [Who am I?](https://haechandeo.me/about/)
 
 ### 🎯 What I'm up to
-- 언어
-  - JLPT N2 목표 학습
 - 컴퓨터
-  - Raspberry Pi NAS 서버 구축
   - SQLD | DAsP | ADsP 취득
+  - Raspberry Pi NAS 서버 구축
   - 토이 프로젝트 : brainfuck interpreter, tetris, web service
-- 디지털 인문학
-  - 『디지털 인문학 입문』 독파
 
 ### 📊 Github Stats
 <p align="center">
