@@ -1,22 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=%23FFC840&size=35&center=true&vCenter=true&width=300&lines=Hi+there%2C+I+am+Esan." />
-</p>
-
-<p>
-  <img align="right" src="https://user-images.githubusercontent.com/61646760/142904700-29b864a0-546a-4735-9041-7591269d56c3.gif" height="250" />
-</p>
-
-
-### 🧐 About Me
-
-- [Who am I?](https://haechandeo.me/about/)
-
-### 🎯 What I'm up to
-- 컴퓨터
-  - SQLD | DAsP | ADsP 취득
-  - Raspberry Pi NAS 서버 구축
-  - 토이 프로젝트 : brainfuck interpreter, tetris, web service
-
 ### 📊 Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="170" />
@@ -87,6 +68,10 @@ https://simpleicons.org/
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Esantomi&no-frame=true&column=8&theme=buddhism" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Esantomi&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D" height="165" />
+</p>
+
+<p>
+  <img align="right" src="https://user-images.githubusercontent.com/61646760/142904700-29b864a0-546a-4735-9041-7591269d56c3.gif" height="250" />
 </p>
 
 -->
