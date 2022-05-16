@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="60%">
+  <img src="https://user-images.githubusercontent.com/61646760/168551755-9c065c22-7569-45c3-90bc-4c0e1e7b99b1.png" alt="hi">
+  <img src="/github-metrics.svg" alt="Metrics" width="70%">
 </div>
 
 <!--
