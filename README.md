@@ -1,9 +1,4 @@
-### 📊 Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html,SCSS,CSS,XSL,Sass&langs_count=6&theme=flag-india" height="170"/>
-</p>
-
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!--
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,8 +56,8 @@ https://simpleicons.org/
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html,SCSS,CSS,XSL,Sass&langs_count=6&theme=flag-india" height="165"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sideorder" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Esantomi&show_icons=true&theme=flag-india" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esantomi&layout=compact&hide=TeX,Jupyter%20Notebook,html,SCSS,CSS,XSL,Sass&langs_count=6&theme=flag-india" height="170"/>
 </p>
 
 <p align="center">
@@ -73,5 +68,4 @@ https://simpleicons.org/
 <p>
   <img align="right" src="https://user-images.githubusercontent.com/61646760/142904700-29b864a0-546a-4735-9041-7591269d56c3.gif" height="250" />
 </p>
-
 -->
