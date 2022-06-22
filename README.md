@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/61646760/168806101-35318ba2-3c26-47f0-82b7-d6851266816d.gif" alt="hi" width = "50%">
-  <img src="/github-metrics.svg" alt="Metrics" width="50%"><br>
+  <img src="https://user-images.githubusercontent.com/61646760/168806101-35318ba2-3c26-47f0-82b7-d6851266816d.gif" alt="hi">
+  <img src="/github-metrics.svg" alt="Metrics"><br>
   <img src="https://leetcard.jacoblin.cool/Esantomi?ext=activity&theme=nord" alt="LeetCode">
 </div>
 
