@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/61646760/168806101-35318ba2-3c26-47f0-82b7-d6851266816d.gif" alt="hi">
   <img src="/github-metrics.svg" alt="Metrics"><br>
-  <img src="https://leetcard.jacoblin.cool/Esantomi?ext=activity&theme=nord" alt="LeetCode">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Esantomi">
 </div>
 
 <!--
@@ -72,4 +72,7 @@ https://simpleicons.org/
 <p>
   <img align="right" src="https://user-images.githubusercontent.com/61646760/142904700-29b864a0-546a-4735-9041-7591269d56c3.gif" height="250" />
 </p>
+
+<img src="https://leetcard.jacoblin.cool/Esantomi?ext=activity&theme=nord" alt="LeetCode">
+
 -->
