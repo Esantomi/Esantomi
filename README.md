@@ -1,10 +1,19 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/61646760/168806101-35318ba2-3c26-47f0-82b7-d6851266816d.gif" alt="hi">
-  <img src="/github-metrics.svg" alt="Metrics"><br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Esantomi">
+  <img src="http://mazandi.herokuapp.com/api?handle=Esantomi"/>
 </div>
 
+<details>
+<summary>Who am I?</summary>
+
+<div align="center">
+  <img src="/github-metrics.svg" alt="Metrics"><br>
+</div>
+</details>
+
 <!--
+<img src="https://user-images.githubusercontent.com/61646760/168806101-35318ba2-3c26-47f0-82b7-d6851266816d.gif" alt="hi">
+
 **Esantomi/Esantomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
