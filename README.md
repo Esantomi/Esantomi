@@ -3,13 +3,15 @@
   <img src="http://mazandi.herokuapp.com/api?handle=Esantomi"/>
 </div>
 
-<details>
-<summary>Who am I?</summary>
-
 <div align="center">
-  <img src="/github-metrics.svg" alt="Metrics"><br>
+  <details>
+  <summary>Who am I?</summary>
+
+  <div align="center">
+    <img src="/github-metrics.svg" alt="Metrics"><br>
+  </div>
+  </details>
 </div>
-</details>
 
 <!--
 <img src="https://user-images.githubusercontent.com/61646760/168806101-35318ba2-3c26-47f0-82b7-d6851266816d.gif" alt="hi">
