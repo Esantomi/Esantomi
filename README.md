@@ -5,7 +5,6 @@
 <div align="center">
   <details>
   <summary>Metrics</summary>
-
   <div align="center">
     <img src="/github-metrics.svg" alt="Metrics">
   </div>
@@ -13,9 +12,8 @@
 </div>
 
 <div align="center">
-  <details>
+  <details open>
   <summary>BOJ</summary>
-  
   <div align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Esantomi">
     <img src="http://mazandi.herokuapp.com/api?handle=Esantomi"/>
