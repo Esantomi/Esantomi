@@ -1,14 +1,24 @@
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Esantomi">
-  <img src="http://mazandi.herokuapp.com/api?handle=Esantomi"/>
+  <img src="https://user-images.githubusercontent.com/61646760/178098434-40310774-956f-40e2-a364-3f0f7553e081.gif" alt="Spider">
 </div>
 
 <div align="center">
   <details>
-  <summary>Who am I?</summary>
+  <summary>Metrics</summary>
 
   <div align="center">
-    <img src="/github-metrics.svg" alt="Metrics"><br>
+    <img src="/github-metrics.svg" alt="Metrics">
+  </div>
+  </details>
+</div>
+
+<div align="center">
+  <details>
+  <summary>BOJ</summary>
+  
+  <div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Esantomi">
+    <img src="http://mazandi.herokuapp.com/api?handle=Esantomi"/>
   </div>
   </details>
 </div>
