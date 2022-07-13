@@ -11,16 +11,6 @@
   </details>
 </div>
 
-<div align="center">
-  <details open>
-  <summary>BOJ</summary>
-  <div align="center">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Esantomi">
-    <img src="http://mazandi.herokuapp.com/api?handle=Esantomi"/>
-  </div>
-  </details>
-</div>
-
 <!--
 <img src="https://user-images.githubusercontent.com/61646760/168806101-35318ba2-3c26-47f0-82b7-d6851266816d.gif" alt="hi">
 
