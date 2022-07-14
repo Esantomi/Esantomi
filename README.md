@@ -1,15 +1,12 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/61646760/178098434-40310774-956f-40e2-a364-3f0f7553e081.gif" alt="Spider">
-</div>
+![life](https://user-images.githubusercontent.com/61646760/178886766-0318b593-cfec-4f18-b3a1-715c25ece2e0.gif)
 
-<div align="center">
-  <details>
-  <summary>Metrics</summary>
+### Metrics
+<details>
+  <summary>See CLI</summary>
   <div align="center">
     <img src="/github-metrics.svg" alt="Metrics">
   </div>
-  </details>
-</div>
+</details>
 
 <!--
 <img src="https://user-images.githubusercontent.com/61646760/168806101-35318ba2-3c26-47f0-82b7-d6851266816d.gif" alt="hi">
