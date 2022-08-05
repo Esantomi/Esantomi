@@ -16,5 +16,5 @@ jobs:
           template: terminal
           base: header, activity, community, repositories  # metadata
           plugin_languages: yes
-          plugin_languages_ignored: html, scss, tex, css
+          plugin_languages_ignored: tex
           config_padding: 0, 3
