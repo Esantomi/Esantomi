@@ -3,7 +3,7 @@
 ### Metrics
 <details>
   <summary>See CLI</summary>
-  <div align="center">
+  <div>
     <img src="/github-metrics.svg" alt="Metrics">
   </div>
 </details>
