@@ -1,6 +1,39 @@
 ![life](https://user-images.githubusercontent.com/61646760/178886766-0318b593-cfec-4f18-b3a1-715c25ece2e0.gif)
 
-### Metrics
+## Stack
+<details>
+  <summary>What I've used</summary>
+  
+#### Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/></a>
+
+#### Backend
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/></a>
+
+#### Database & Server
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
+
+#### Data & AI
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat-square&logo=Scikitlearn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></a>
+
+#### Studying
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
+</details>
+
+## Metrics
 <details>
   <summary>See CLI</summary>
   <div>
@@ -9,6 +42,7 @@
 </details>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=Esantomi)](https://solved.ac/Esantomi)
+
 
 <!--
 <img src="https://user-images.githubusercontent.com/61646760/168806101-35318ba2-3c26-47f0-82b7-d6851266816d.gif" alt="hi">
@@ -27,23 +61,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://simpleicons.org/
-- Languages  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-- Database & Frameworks  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
-- Machine Learning  
-<img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat-square&logo=Scikitlearn&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
 [![Tech Blog Badge](http://img.shields.io/badge/Blog%20&%20Portfolio-black?style=flat-square&logo=GitHub&link=https://Esantomi.github.io/)](https://Esantomi.github.io/)
 [![GitLab](http://img.shields.io/badge/GitLab-black?style=flat-square&logo=GitLab&link=https://gitlab.com/Esantomi)](https://gitlab.com/Esantomi)
