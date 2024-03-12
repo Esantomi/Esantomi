@@ -1,6 +1,6 @@
 ![life](https://user-images.githubusercontent.com/61646760/178886766-0318b593-cfec-4f18-b3a1-715c25ece2e0.gif)
 
-## Stack
+### Stack
 <details>
   <summary>What I've used</summary>
   
@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
 
 #### Data & AI
@@ -32,7 +33,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 </details>
 
-## Metrics
+### Metrics
 <details>
   <summary>See CLI</summary>
   <div>
