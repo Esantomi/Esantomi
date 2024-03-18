@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=synology&logoColor=white"/></a>
 
 #### Data & AI
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
@@ -28,9 +29,12 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/></a>
 
+#### 
+
 #### Studying
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/></a>
 </details>
 
 ### Metrics
