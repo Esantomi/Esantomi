@@ -39,8 +39,8 @@
 </div>
 <div class="stdin"><span class="ps1-path">esantomi@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
   <b> 2528</b> commits
-  <b>    3</b> pull requests reviewed
-  <b>    3</b> pull requests opened
+  <b>    0</b> pull requests reviewed
+  <b>    1</b> pull request opened
   <b>    0</b> issues opened
   <b>   34</b> issue comments
 
