@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="674" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="672" class="">
   
 
   <defs><style>@font-face {
@@ -33,7 +33,7 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">esantomi@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Sammae (參每)</b> registered=4y, uid=6760, gid=1
+<pre><div class="stdin"><span class="ps1-path">esantomi@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Sammae</b> registered=4y, uid=6760, gid=1
   contributed to 7 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>27</b> users
 </div>
